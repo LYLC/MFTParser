@@ -4,12 +4,12 @@ MFTParser was developed in C++ programming language to parse Microsoft Windows' 
 
 # Version
 
-0.2.0
+0.2.1
 
 # Usage
 
     Usage: mftparser [-h] [-a] [-j JOURNAL_FILE] [-r] [-w OUTPUT_FILE] [MFT_FILE]
-    Version: 0.2.0
+    Version: 0.2.1
     Options:
     	-h,--help			        Show this help message
     	-a,--ads                    Show alternate data stream
@@ -34,8 +34,8 @@ It may work on other Linux distributions. However, testings are required to conf
 
 # SHA256
 
-8f0d4adf35fa9ecd595523bbf8944f6c70bdb1ba7fa9fa53c59a2ae02b664600  mftparser
-e4faf51155bd55df081c26ed116d1e1d9480af0c10bc3f453d1563dd4a5e159d  mftparser-0.2.0-Linux-x64.zip
+7921f1a06d2d7c356677a7c33b8d7c2077593697fca1ee0a7c6cf426dec24da1  mftparser
+6bf2dd33f3a1fba3976fe45bccdedc8b9a445d1d10281d1aa6049a602e86130b  mftparser-0.2.1-Linux-x64.zip
 
 # Dependency
 
